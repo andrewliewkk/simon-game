@@ -1,2 +1,2 @@
 # simon-game
- Javascript game
+ Javascript game. App brewery activity
